@@ -115,18 +115,29 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
+				<string>#9fca56</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword</string>
+			<key>scope</key>
+			<string>keyword.control, keyword.type, keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
 				<string>#e6cd69</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Keyword Operator</string>
+			<string>Return keyword</string>
 			<key>scope</key>
-			<string>keyword.operator</string>
+			<string>keyword.control.flow</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e6cd69</string>
+				<string>#9fca56</string>
 			</dict>
 		</dict>		
 		<dict>
@@ -151,6 +162,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#e6cd69</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Function definition</string>
+			<key>scope</key>
+			<string>storage.type.function</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9fca56</string>
 			</dict>
 		</dict>
 		<dict>
