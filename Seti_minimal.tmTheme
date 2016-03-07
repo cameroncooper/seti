@@ -359,6 +359,17 @@
 			<string>#d4d7d6</string>
 		</dict>
 	</dict>
+	<dict>
+		<key>name</key>
+		<string>Function</string>
+		<key>scope</key>
+		<string>storage.type.function.js</string>
+		<key>settings</key>
+		<dict>
+			<key>foreground</key>
+			<string>#9fca56</string>
+		</dict>
+	</dict>
 	<!-- End JavaScript -->
 
 	<!-- Start Golang -->
