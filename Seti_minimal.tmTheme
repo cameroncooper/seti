@@ -8,6 +8,7 @@
   purple: a074c4
   red: cd3f45
   yellow: e6cd69 
+  orange: fda100
 -->
 <plist version="1.0">
 <dict>
@@ -359,6 +360,20 @@
 		</dict>
 	</dict>
 	<!-- End JavaScript -->
+
+	<!-- Start Golang -->
+	<dict>
+		<key>name</key>
+		<string>Function Call</string>
+		<key>scope</key>
+		<string>punctuation.definition.dot.go</string>
+		<key>settings</key>
+		<dict>
+			<key>foreground</key>
+			<string>#e6cd69</string>
+		</dict>
+	</dict>
+	<!-- End Golang -->
 
 	<!-- Start GitGutter -->
 	<dict>
