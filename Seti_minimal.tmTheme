@@ -82,7 +82,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Character & Other Constants</string>
+			<string>Character and Other Constants</string>
 			<key>scope</key>
 			<string>constant.character, constant.other</string>
 			<key>settings</key>
