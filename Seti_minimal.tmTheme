@@ -16,9 +16,9 @@
 		<key>background</key>
 		<string>#151718</string>
 		<key>divider</key>
-		<string>#75715E</string>
+		<string>#858d8a</string>
 		<key>foreground</key>
-		<string>#75715E</string>
+		<string>#858d8a</string>
 	</dict>
 	<key>name</key>
 	<string>Seti Minimal</string>
