@@ -104,7 +104,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9fca56</string>
+				<string>#e6cd69</string>
 			</dict>
 		</dict>
 		<dict>
@@ -352,22 +352,11 @@
 		<key>name</key>
 		<string>Support Objects</string>
 		<key>scope</key>
-		<string>support.class.builtin.js, support.type.object.process.js, support.type.object.console.js, support.type.object.module.js</string>
+		<string>support.class.builtin.js, support.type.object.process.js, support.type.object.console.js, support.type.object.module.js, support.type.object.node.js</string>
 		<key>settings</key>
 		<dict>
 			<key>foreground</key>
 			<string>#d4d7d6</string>
-		</dict>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Function</string>
-		<key>scope</key>
-		<string>storage.type.function.js</string>
-		<key>settings</key>
-		<dict>
-			<key>foreground</key>
-			<string>#9fca56</string>
 		</dict>
 	</dict>
 	<!-- End JavaScript -->
