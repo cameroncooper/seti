@@ -11,18 +11,6 @@
 -->
 <plist version="1.0">
 <dict>
-	<!-- Start Gutter -->
-	<key>gutterSettings</key>
-	<dict>
-		<key>background</key>
-		<string>#151718</string>
-		<key>divider</key>
-		<string>#858d8a</string>
-		<key>foreground</key>
-		<string>#858d8a</string>
-	</dict>
-	<!-- End Gutter -->
-
 	<key>name</key>
 	<string>Seti Minimal</string>
 	<key>semanticClass</key>
