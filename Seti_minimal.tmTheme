@@ -347,6 +347,17 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>Doctype Keyword</string>
+		<key>scope</key>
+		<string>keyword.doctype.xml</string>
+		<key>settings</key>
+		<dict>
+			<key>foreground</key>
+			<string>#55b5db</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Support Objects</string>
 		<key>scope</key>
 		<string>support.class.builtin.js, support.type.object.process.js, support.type.object.console.js, support.type.object.module.js</string>
