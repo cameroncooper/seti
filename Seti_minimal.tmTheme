@@ -21,9 +21,9 @@
 		<string>#75715E</string>
 	</dict>
 	<key>name</key>
-	<string>Seti Cameron</string>
+	<string>Seti Minimal</string>
 	<key>semanticClass</key>
-	<string>theme.seti.cameron</string>
+	<string>theme.seti.minimal</string>
 	<key>settings</key>
 	<array>
 		<dict>
