@@ -63,6 +63,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Regex String</string>
+			<key>scope</key>
+			<string>string.regexp constant.character.escape</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#55b5db</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Constants</string>
 			<key>scope</key>
 			<string>constant</string>
