@@ -260,6 +260,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Definition Colon</string>
+			<key>scope</key>
+			<string>punctuation.definition.colon</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#e6cd69</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Invalid</string>
 			<key>scope</key>
 			<string>invalid</string>
@@ -359,6 +370,17 @@
 			<string>#d4d7d6</string>
 		</dict>
 	</dict>
+		<dict>
+			<key>name</key>
+			<string>Definition Colon</string>
+			<key>scope</key>
+			<string>punctuation.separator.key-value.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#e6cd69</string>
+			</dict>
+		</dict>
 	<!-- End JavaScript -->
 
 	<!-- Start Golang -->
