@@ -403,17 +403,28 @@
 			<string>#eeeeee</string>
 		</dict>
 	</dict>
+	<dict>
+		<key>name</key>
+		<string>Definition Colon</string>
+		<key>scope</key>
+		<string>punctuation.separator.key-value.js</string>
+		<key>settings</key>
 		<dict>
-			<key>name</key>
-			<string>Definition Colon</string>
-			<key>scope</key>
-			<string>punctuation.separator.key-value.js</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#e0c64f</string>
-			</dict>
+			<key>foreground</key>
+			<string>#e0c64f</string>
 		</dict>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Definition Colon</string>
+		<key>scope</key>
+		<string>storage.type.function.js</string>
+		<key>settings</key>
+		<dict>
+			<key>foreground</key>
+			<string>#e0c64f</string>
+		</dict>
+	</dict>
 	<!-- End JavaScript -->
 
 	<!-- Start Golang -->
