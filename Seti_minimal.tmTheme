@@ -366,6 +366,17 @@
 			<key>foreground</key>
 			<string>#8ec43d</string>
 		</dict>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Doctype Keyword</string>
+		<key>scope</key>
+		<string>keyword.doctype.xml</string>
+		<key>settings</key>
+		<dict>
+			<key>foreground</key>
+			<string>#43a5d5</string>
+		</dict>
 	</dict>	
 	<!-- End XML -->
 
@@ -383,17 +394,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Doctype Keyword</string>
-		<key>scope</key>
-		<string>keyword.doctype.xml</string>
-		<key>settings</key>
-		<dict>
-			<key>foreground</key>
-			<string>#43a5d5</string>
-		</dict>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>Support Objects</string>
 		<key>scope</key>
 		<string>support.class.builtin.js, support.type.object.process.js, support.type.object.console.js, support.type.object.module.js, support.type.object.node.js</string>
@@ -403,6 +403,17 @@
 			<string>#eeeeee</string>
 		</dict>
 	</dict>
+	<dict>
+		<key>name</key>
+		<string>Object Literal Key</string>
+		<key>scope</key>
+		<string>source.js, meta.group.braces.curly.js, constant.other.object.key.js, string.unquoted.label.js</string>
+		<key>settings</key>
+		<dict>
+			<key>foreground</key>
+			<string>#eeeeee</string>
+		</dict>
+	</dict>	
 	<dict>
 		<key>name</key>
 		<string>Definition Colon</string>
